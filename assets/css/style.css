@@ -1,0 +1,76 @@
+
+
+
+.main-content {
+	background-image: url("http://sportyspub.com/img/content/bigslider/questionmarks.png");
+	border: 2px solid #cccccc;
+	height: 700px;
+	position: relative;
+}
+
+.inner-block {
+	background-image: url("../images/got-png.png");
+	height: 600px;
+	position: absolute;
+	top: 10%;
+	left: 16%;
+}
+
+.btn-start {
+	position: absolute;
+	font-size: 30px;
+	top: 50%;
+	left: 40%;
+	right: 40%;
+
+}
+
+.question-content   {
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	margin-top: 20px;
+	color: #ffffff
+}
+
+.timer {
+	text-align: center;
+	margin: 15px;
+	font-size: 32px;
+	color: white;
+}
+
+.answer-content {
+	position: absolute;
+	top: 40%;
+}
+.answer-content button {
+	border: 2px solid #cccccc;
+	text-align: center;
+	padding: 5px;
+	font-size: 30px;
+	font-weight: normal;
+	margin: 15px;
+	width: 200px;
+}
+.answer-content button:hover {
+	border: 4px solid #ffffff;
+	cursor: pointer;
+}
+
+.answer-content p {
+
+	text-align: center;
+	padding: 5px;
+	font-size: 30px;
+	font-weight: normal;
+	margin: 35px 25px 15px 0px;
+	color:white;
+	width: 350px;
+}
+
+.gif-content {
+	margin-top: 10px;
+	position: absolute;
+	left: 35%;
+}
